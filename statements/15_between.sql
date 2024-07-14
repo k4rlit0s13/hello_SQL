@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age BETWEEN 10 AND 40;   --filtrar edades entre 10 y 40 años
