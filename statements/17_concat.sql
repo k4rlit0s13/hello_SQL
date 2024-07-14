@@ -1,0 +1,1 @@
+SELECT CONCAT('Nombre: ', name_user, 'Apellido: ', surname) AS 'Nombres completos' FROM users;  --concatenar pegar un texto junto con dato y el AS le da nombre a la columna
