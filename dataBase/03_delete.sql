@@ -1,0 +1,1 @@
+DELETE FROM users WHERE user_id = 10; --eliminar el usuario numero 10
